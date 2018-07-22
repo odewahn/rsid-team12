@@ -1,0 +1,80 @@
+1	rs145072688	T	TA
+1	rs367896724	A	AC
+1	rs376342519	CCGCCGTTGCAAAGGCGCGCCG	C
+1	rs531730856	G	C
+1	rs538791886	CCT	C
+1	rs540538026	G	A
+1	rs541940975	A	G
+1	rs544419019	C	G
+1	rs546169444	A	T
+1	rs548333521	G	A
+1	rs554008981	G	A
+1	rs554760071	G	C
+1	rs555500075	T	TA
+1	rs558318514	C	G
+1	rs558604819	G	A
+1	rs561109771	T	G
+1	rs568927457	T	C
+1	rs571093408	C	G
+1	rs575272151	C	G
+1	rs62028691	A	G
+1	rs62635286	T	G
+1	rs6682385	A	G
+1	rs707680	T	A
+#CHROM	ID	REF	ALT
+##dbSNP_BUILD_ID=150			
+##fileDate=20170710			
+##fileformat=VCFv4.0			
+##FILTER=<ID=NC,Description="Inconsistent	Submission	For	At
+##INFO=<ID=ASP,Number=0,Type=Flag,Description="Is	specific.	This	is
+##INFO=<ID=ASS,Number=0,Type=Flag,Description="In	splice	site	FxnCode
+##INFO=<ID=CAF,Number=.,Type=String,Description="An	comma	delimited	list
+##INFO=<ID=CDA,Number=0,Type=Flag,Description="Variation	interrogated	in	a
+##INFO=<ID=CFL,Number=0,Type=Flag,Description="Has	conflict.	This	is
+##INFO=<ID=COMMON,Number=1,Type=Integer,Description="RS	a	common	SNP.
+##INFO=<ID=dbSNPBuildID,Number=1,Type=Integer,Description="First	Build	for	RS">
+##INFO=<ID=DSS,Number=0,Type=Flag,Description="In	splice-site	FxnCode	=
+##INFO=<ID=G5A,Number=0,Type=Flag,Description=">5%	allele	frequency	in
+##INFO=<ID=G5,Number=0,Type=Flag,Description=">5%	allele	frequency	in
+##INFO=<ID=GENEINFO,Number=1,Type=String,Description="Pairs	of	gene	symbol:gene
+##INFO=<ID=GNO,Number=0,Type=Flag,Description="Genotypes	The	variant	has
+##INFO=<ID=HD,Number=0,Type=Flag,Description="Marker	on	high	density
+##INFO=<ID=INT,Number=0,Type=Flag,Description="In	FxnCode	=	6">
+##INFO=<ID=KGPhase1,Number=0,Type=Flag,Description="1000	phase	1	(incl.
+##INFO=<ID=KGPhase3,Number=0,Type=Flag,Description="1000	phase	3">	
+##INFO=<ID=LSD,Number=0,Type=Flag,Description="Submitted	a	locus-specific	database">
+##INFO=<ID=MTP,Number=0,Type=Flag,Description="Microattribution/third-party			
+##INFO=<ID=MUT,Number=0,Type=Flag,Description="Is	(journal	citation,	explicit
+##INFO=<ID=NOC,Number=0,Type=Flag,Description="Contig	not	present	in
+##INFO=<ID=NOV,Number=0,Type=Flag,Description="Rs	has	non-overlapping	allele
+##INFO=<ID=NSF,Number=0,Type=Flag,Description="Has	frameshift	A	coding
+##INFO=<ID=NSM,Number=0,Type=Flag,Description="Has	missense	A	coding
+##INFO=<ID=NSN,Number=0,Type=Flag,Description="Has	nonsense	A	coding
+##INFO=<ID=OM,Number=0,Type=Flag,Description="Has			
+##INFO=<ID=OTH,Number=0,Type=Flag,Description="Has	variant	with	exactly
+##INFO=<ID=PMC,Number=0,Type=Flag,Description="Links	to	PubMed	Central
+##INFO=<ID=PM,Number=0,Type=Flag,Description="Variant	Precious(Clinical,Pubmed	Cited)">	
+##INFO=<ID=R3,Number=0,Type=Flag,Description="In	gene	region	FxnCode
+##INFO=<ID=R5,Number=0,Type=Flag,Description="In	gene	region	FxnCode
+##INFO=<ID=REF,Number=0,Type=Flag,Description="Has	A	coding	region
+##INFO=<ID=RS,Number=1,Type=Integer,Description="dbSNP	(i.e.	rs	number)">
+##INFO=<ID=RSPOS,Number=1,Type=Integer,Description="Chr	reported	in	dbSNP">
+##INFO=<ID=RV,Number=0,Type=Flag,Description="RS	is	reversed">	
+##INFO=<ID=S3D,Number=0,Type=Flag,Description="Has	structure	-	SNP3D
+##INFO=<ID=SAO,Number=1,Type=Integer,Description="Variant	Origin:	0	-
+##INFO=<ID=SLO,Number=0,Type=Flag,Description="Has	-	From	SNP->SubSNP->Batch.link_out">
+##INFO=<ID=SSR,Number=1,Type=Integer,Description="Variant	Reason	Codes	(may
+##INFO=<ID=SYN,Number=0,Type=Flag,Description="Has	A	coding	region
+##INFO=<ID=TOPMED,Number=.,Type=String,Description="An	comma	delimited	list
+##INFO=<ID=TPA,Number=0,Type=Flag,Description="Provisional	Party	Annotation(TPA)	(currently
+##INFO=<ID=U3,Number=0,Type=Flag,Description="In	UTR	Location	is
+##INFO=<ID=U5,Number=0,Type=Flag,Description="In	UTR	Location	is
+##INFO=<ID=VC,Number=1,Type=String,Description="Variation			
+##INFO=<ID=VLD,Number=0,Type=Flag,Description="Is	This	bit	is
+##INFO=<ID=VP,Number=1,Type=String,Description="Variation	Documentation	is	at
+##INFO=<ID=WGT,Number=1,Type=Integer,Description="Weight,	-	unmapped,	1
+##INFO=<ID=WTD,Number=0,Type=Flag,Description="Is	by	submitter	If
+##phasing=partial			
+##reference=GRCh37.p13			
+##source=dbSNP			
+##variationPropertyDocumentationUrl=ftp://ftp.ncbi.nlm.nih.gov/snp/specs/dbSNP_BitField_latest.pdf			
